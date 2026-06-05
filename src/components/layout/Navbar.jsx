@@ -33,7 +33,7 @@ export default function Navbar() {
     items-center
     justify-between
 
-    px-6
+    px-10
 
     ${
       isArabic
@@ -130,6 +130,8 @@ export default function Navbar() {
 
 
 
-// \\الان لدي مشروع منصة اختبارات الكترونية واستخدم
-//  فيه tanstack query and shadcn and zustand and i18next 
-//   والمشروع لغتين انكلش وعربي  وقمت ببناء الnavbar and sidebar  وريد بناء المحتوى الذي بالمنتصف 
+
+
+
+
+//انا لدي مشروع منصة اختبارات الكترونية واستخدم رياكت tanstack query and shadcn and zustand and i18next  وقمنا انا وانت ببناء الnavbar and sidebar والان نريد انا نكمل بنائ المحتوى الذي بالمنتصف اريد منك بالتفصيل الخطوات 

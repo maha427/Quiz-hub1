@@ -58,7 +58,7 @@ const { language,changeLanguage } = useLanguageStore()
   dir={isArabic ? "rtl" : "ltr"}
   className={`
     fixed top-0
-    w-[240px]
+    w-[260px]
     min-h-screen
     bg-white
     p-2
@@ -71,7 +71,7 @@ const { language,changeLanguage } = useLanguageStore()
 >
       {/* Logo */}
 
-      <div className=" text-center" style={{paddingLeft:"70px"}}>
+      <div className=" text-center">
         <h1 className=" text-3xl font-bold text-cyan-500" style={{color:COLORS.primary , fontSize:"35px",}}>
           QuizHub
            

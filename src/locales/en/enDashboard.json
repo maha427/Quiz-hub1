@@ -1,0 +1,34 @@
+{
+  "welcome": "Welcome back, Professor mohammad",
+  "subtitle": "Here’s a quick overview of your activity today",
+   "students": "Student Engagement",
+    "studentsSubtitle": "Average overall performance",
+
+    "exams": "Created Exams",
+    "examsSubtitle": "Active in 3 classes",
+
+    "questions": "Question Banks",
+    "questionsSubtitle": "+4 this month",
+    
+    
+
+  "analytics": {
+    "title": "Students Analytics",
+    "description": "Track student performance and progress",
+    "button": "Explore Data"
+  },
+  "ai": {
+    "title": "Boost teaching with AI-powered quizzes",
+    "description": "Generate professional exams automatically",
+    "button": "Generate Quiz"
+  },
+   "recentExams": {
+    "title": "Recent Exams",
+    "viewAll": "View All Results",
+    "loading": "Loading exams...",
+    "student": "Student"
+   
+  }
+
+
+}

@@ -5,11 +5,13 @@ import { initReactI18next } from "react-i18next"
 import arNavbar
 from "../locales/ar/arNavbar.json"
 
-import enNavbar
-from "../locales/en/enNavbar.json"
+import enNavbar from "../locales/en/enNavbar.json"
 
-import arSidebar
-from "../locales/ar/arSidebar.json"
+import arSidebar from "../locales/ar/arSidebar.json"
+import arDashboard from "../locales/ar/arDashboard.json"
+import enDashboard from  "../locales/en/enDashboard.json"
+import arQuestionBanks from "../locales/ar/arQuestionBanks.json"
+import enQuestionBanks from "../locales/en/enQuestionBanks.json"
 
 import enSidebar
 from "../locales/en/enSidebar.json"
@@ -21,13 +23,17 @@ i18n.use(initReactI18next).init({
     ar: {
       navbar: arNavbar,
     //   common: arCommon,
-    sidebar: arSidebar
+    sidebar: arSidebar,
+    dashboard:arDashboard,
+    questionBank:arQuestionBanks,
     },
 
     en: {
       navbar: enNavbar,
     //   common: enCommon,
-      sidebar:enSidebar
+      sidebar:enSidebar,
+      dashboard:enDashboard,
+      questionBank:enQuestionBanks,
     },
   },
 

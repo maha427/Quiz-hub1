@@ -23,11 +23,13 @@ ReactDOM.createRoot(
   <QueryClientProvider
     client={queryClient}
   >
-
  
-  <BrowserRouter>
-    <App />
-  </BrowserRouter>
-    </QueryClientProvider>
+ 
+              <BrowserRouter>
+              <App />
+           </BrowserRouter>
+           
+              </QueryClientProvider>
+              
 
 )

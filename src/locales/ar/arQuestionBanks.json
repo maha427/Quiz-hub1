@@ -1,0 +1,65 @@
+ {
+    "badge": "المستودع الأكاديمي",
+    "title": "بنوك الأسئلة",
+    "description": "قم بتنظيم وإدارة تقييماتك المؤسسية بدقة.",
+    "loading": "جار التحميل...",
+    "tabs": {
+    "myBanks": "بنوكي",
+    "community": "المجتمع"
+},
+
+"controls": {
+  "view": "عرض",
+  "subject": "التصفية: جميع المواد",
+  "sort": "التاريخ: الأحدث"
+},
+
+"subjects": {
+  "all": "جميع المواد",
+  "science": "العلوم",
+  "math": "الرياضيات"
+},
+
+"sort": {
+  "latest": "الأحدث",
+  "oldest": "الأقدم"
+},
+"stats": {
+  "totalBanks": "إجمالي بنوك الأسئلة"
+},
+ "create": {
+    "title": "إنشاء بنك أسئلة",
+    "badge":"قم بإنشاء بنك أسئلة كامل من خلال تحديد المعلومات الأساسية وإضافة أسئلة متعددة لتقييم طلابك",
+    "bankTitle": "عنوان البنك",
+    "bankTitlePlaceholder": "أدخل عنوان البنك",
+
+    "subject": "المادة",
+    "subjectPlaceholder": "مثال: علوم",
+
+    "description": "الوصف",
+    "descriptionPlaceholder": "أدخل وصف البنك"
+  },
+  "add":{
+    "title":"اضافة بنك جديد ",
+    "desc":" انشاء بنك من الصفر"
+  },
+
+
+  "createDialog":{
+    "title":"إنشاء بنك أسئلة",
+    "bankName":"اسم البنك",
+    "bankPlaceholder":"ادخل اسم البنك",
+      "subjectName":" المادة",
+      "subjectPlaceholder":"ادخل اسم المادة",
+     "description":"الوصف",
+     "descPlaceholder": "اكتب شيء",
+     "community1":"نشر للمجتمع",
+     "community2":"سيتمكن الجميع من رؤية البنك",
+     "private":"ابقاء البنك خاص",
+     "private2":"لن يتمكن احد من رؤية البنك ",
+     "done":"تم"
+
+
+  }
+
+  }

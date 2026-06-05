@@ -1,0 +1,72 @@
+ {
+    "badge": "Academic Repository",
+    "title": "Question Banks",
+    "description": "Organize and manage your institutional assessments efficiently.",
+
+     "loading": "Loading...",
+     "tabs": {
+  "myBanks": "My Banks",
+  "community": "Community"
+},
+"controls": {
+  "view": "View",
+  "subject": "Filter: All Subjects",
+  "sort": "Date: Latest"
+},
+
+"subjects": {
+  "all": "All Subjects",
+  "science": "Science",
+  "math": "Math"
+},
+
+"sort": {
+  "latest": "Latest",
+  "oldest": "Oldest"
+},
+"stats": {
+  "totalBanks": "Total Question Banks"
+},
+
+  "create": {
+    "title": "Create Question Bank",
+    "badge":"Create a complete question bank by defining the essential informationand adding multiple questions to assess your students.",
+    "bankTitle": "Bank Title",
+    "bankTitlePlaceholder": "Enter bank title",
+
+    "subject": "Subject",
+    "subjectPlaceholder":"Example: Science",
+
+    "description": "Description",
+    "descriptionPlaceholder": "Enter bank description"
+  },
+  "add":{
+    "title":"Add a new bank",
+    "desc":"create a bank from scratch"
+ 
+  },
+
+  "createDialog":{
+    "title":"Create a question bank",
+    "bankName":"Bank Name",
+    "bankPlaceholder":"Set Bank Name",
+      "subjectName":" Subject",
+      "subjectPlaceholder":"Enter Subject Name",
+     "description":"Description",
+     "descPlaceholder": " Write something",
+     "community1":"Share with everyone ",
+     "community2":"Everyone will be able to see the bank",
+     "private":"Keep the bank private",
+     "private2":"No one will be able to see the bank ",
+     "done":"Done"
+
+
+  }
+
+  
+  
+  
+}
+
+
+  
